@@ -22,6 +22,7 @@
 		84A7DED81959CC6C007DA0EA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 84A7DED61959CC6C007DA0EA /* InfoPlist.strings */; };
 		84A7DEDA1959CC6C007DA0EA /* Git_TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A7DED91959CC6C007DA0EA /* Git_TestTests.m */; };
 		84A7DEE51959ED8D007DA0EA /* MSTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A7DEE41959ED8D007DA0EA /* MSTest.m */; };
+		84A7DEE81959F151007DA0EA /* MSTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A7DEE71959F151007DA0EA /* MSTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,8 @@
 		84A7DED91959CC6C007DA0EA /* Git_TestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Git_TestTests.m; sourceTree = "<group>"; };
 		84A7DEE31959ED8D007DA0EA /* MSTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MSTest.h; path = ../MSTest.h; sourceTree = "<group>"; };
 		84A7DEE41959ED8D007DA0EA /* MSTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MSTest.m; path = ../MSTest.m; sourceTree = "<group>"; };
+		84A7DEE61959F151007DA0EA /* MSTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSTest.h; sourceTree = "<group>"; };
+		84A7DEE71959F151007DA0EA /* MSTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +121,8 @@
 				84A7DEBD1959CC6C007DA0EA /* MSAppDelegate.h */,
 				84A7DEBE1959CC6C007DA0EA /* MSAppDelegate.m */,
 				84A7DEE31959ED8D007DA0EA /* MSTest.h */,
+				84A7DEE61959F151007DA0EA /* MSTest.h */,
+				84A7DEE71959F151007DA0EA /* MSTest.m */,
 				84A7DEE41959ED8D007DA0EA /* MSTest.m */,
 				84A7DEC01959CC6C007DA0EA /* Main.storyboard */,
 				84A7DEC31959CC6C007DA0EA /* MSViewController.h */,
@@ -258,6 +263,7 @@
 				84A7DEC51959CC6C007DA0EA /* MSViewController.m in Sources */,
 				84A7DEBB1959CC6C007DA0EA /* main.m in Sources */,
 				84A7DEE51959ED8D007DA0EA /* MSTest.m in Sources */,
+				84A7DEE81959F151007DA0EA /* MSTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
