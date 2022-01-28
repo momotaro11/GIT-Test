@@ -8,7 +8,7 @@
 
 #import <XCTest/XCTest.h>
 
-@interface Git_TestTests : XCTestCase
+@interface Git_TestTests : XCTestCase  
 
 @end
 
